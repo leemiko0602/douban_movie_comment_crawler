@@ -1,0 +1,2 @@
+# douban_movie_comment_crawler
+基于scrapy的豆瓣影评爬虫
